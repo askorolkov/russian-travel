@@ -1,0 +1,26 @@
+.footer__links_item {
+  padding: 0;
+  padding-right: 18px;
+  margin: 0;
+  text-decoration: none;
+  color: white;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__links_item {
+    padding-bottom: 32px;
+  }
+
+  .footer__links_item:last-child {
+    padding-bottom: 48px;
+  }
+}
+
+.footer__links_item_link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__links_item_link:hover {
+  opacity: .6;
+}

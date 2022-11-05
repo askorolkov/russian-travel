@@ -1,0 +1,23 @@
+.places__place_image {
+	width: 460px;
+	grid-column: 1;
+}
+
+@media screen and (max-width: 1024px) {
+	.places__place_image {
+		width: 440px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.places__place_image {
+		width: 340px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.places__place_image {
+		width: 320px;
+		padding-bottom: 32px;
+	}
+}
