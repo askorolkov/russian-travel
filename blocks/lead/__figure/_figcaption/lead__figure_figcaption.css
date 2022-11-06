@@ -6,8 +6,8 @@
     text-transform: uppercase;
   }
   
-  @media screen and (max-width: 768px) {
-    .lead__figure-figcaption {
-      padding-left: 24px;
-    }
+@media screen and (max-width: 768px) {
+  .lead__figure_figcaption {
+    padding-left: 24px;
   }
+}

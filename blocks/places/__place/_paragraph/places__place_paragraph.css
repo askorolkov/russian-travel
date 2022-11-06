@@ -5,14 +5,13 @@
   letter-spacing: 0em;
   text-align: left;
   color: white;
-  width: 484px;
+  width: 100%;
   padding: 0;
   margin: 0;
 }
 
 @media screen and (max-width: 768px) {
   .places__place_paragraph {
-    width: 352px;
     font-size: 16px;
     line-height: 26px;
     margin: 0 auto;
