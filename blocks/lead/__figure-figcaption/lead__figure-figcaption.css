@@ -1,4 +1,4 @@
-.lead__figure_figcaption {
+.lead__figure-figcaption {
     font-size: 10px;
     font-weight: 400;
     line-height: 14px;
@@ -7,7 +7,7 @@
   }
   
 @media screen and (max-width: 768px) {
-  .lead__figure_figcaption {
+  .lead__figure-figcaption {
     padding-left: 24px;
   }
 }

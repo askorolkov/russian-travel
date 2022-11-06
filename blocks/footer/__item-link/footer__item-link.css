@@ -1,0 +1,8 @@
+.footer__item-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__item-link:hover {
+  opacity: .6;
+}

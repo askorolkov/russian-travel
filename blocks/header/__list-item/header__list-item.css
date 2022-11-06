@@ -1,7 +1,7 @@
-.header__lang_item {
+.header__list-item {
     padding-left: 18px;
   }
 
-.header__lang_item:nth-child(1) {
+.header__list-item:nth-child(1) {
   text-decoration: underline;
 }
