@@ -15,9 +15,15 @@
 	}
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
+	.places__image {
+		align-self: center;
+		padding-bottom: 32px;
+	}
+}
+
+@media screen and (max-width: 370px) {
 	.places__image {
 		width: 320px;
-		padding-bottom: 32px;
 	}
 }

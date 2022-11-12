@@ -18,6 +18,12 @@
   }
 }
 
+@media screen and (max-width: 650px) {
+  .places__paragraph {
+    max-width: 90%;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .places__paragraph {
     max-width: 288px;
@@ -26,4 +32,8 @@
 
 .places__paragraph:first-child {
   padding-bottom: 26px;
+}
+
+.places__paragraph:last-of-type {
+  padding-bottom: 0;
 }

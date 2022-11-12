@@ -17,3 +17,9 @@
     padding-left: 24px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .lead__figure-figcaption {
+    padding-left: 16px;
+  }
+}

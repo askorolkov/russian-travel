@@ -7,9 +7,13 @@
   letter-spacing: 0em;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
   .header__item-link {
     font-size: 18px;
     line-height: 20px;
   }
+}
+
+.header__item-link:hover {
+  opacity: .6;
 }
